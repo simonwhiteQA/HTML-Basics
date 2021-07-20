@@ -1,3 +1,3 @@
 # HTML-Basics
 
-Exercises using HTML and CSS fundamentals to create web pages.
+HTML and CSS fundamentals used to create web pages.
