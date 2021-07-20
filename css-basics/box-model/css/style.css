@@ -1,0 +1,43 @@
+.margin-box {
+    background: lightblue;
+    color: white;
+    margin: 1px;
+    border: 10px;
+    border-bottom: red;
+}
+
+.content-box {
+    background: lightblue;
+    color: white;
+    margin: 80px;
+    border: 10px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.padding-box {
+    background: blue;
+    color: white;
+    margin: 70px;
+    border: 10px;
+    border-color: black;
+    padding: 10px;
+}
+.box {
+background: lightblue;
+color: white;
+margin: 5px;
+width: 240px;
+display: inline-block;
+align-items: center;
+}
+
+.container {
+    background: blue;
+    padding: 10px;
+    align-items: center;
+}
+
+.body-container {
+    background:lightblue;
+}
