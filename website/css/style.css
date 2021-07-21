@@ -1,0 +1,70 @@
+#header {
+padding:30px;
+background-color: green;
+color: white;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    color: lightblue;
+    padding: 15px;
+    background: lightgreen;
+    border: 5px solid black;
+}
+
+#navElement {
+    padding: 10px;
+    color: white;
+}
+
+#container-left {
+    background-color: lightgreen;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    width: 30%;
+    padding: 30px;
+    margin: 30px;
+    display: inline-block;
+    border: 10px solid black;
+}
+
+#container-right {
+    background-color: lightgreen;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 30%;
+    padding: 30px;
+    margin: 30px;
+    display: inline-block;
+    border: 10px solid black;
+}
+
+#container {
+    padding: 10px;
+    margin: 10px;
+    height: 1000px;
+}
+
+#form {
+    background-color: white;
+    width: 800px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#about {
+    background-color: white;
+    width: 1000px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 10px solid black;
+    background-color: lightgreen;
+    color: white;
+}
