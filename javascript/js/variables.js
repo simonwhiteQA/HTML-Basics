@@ -1,3 +1,4 @@
+(function() {
 var x = 10;
 let y = 5;
 const z = x + y;
@@ -15,3 +16,5 @@ console.log("Film name: " + film.name);
 console.log("Film year: " + film.year);
 console.log("Film length: " + film.length);
 console.log("Actor Info: " + film.actors.actor);
+
+})();

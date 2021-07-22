@@ -1,7 +1,7 @@
-function calculation(num1, num2) {
+(function calculation(num1, num2) {
     return num1 - num2;
-}
-console.log(subCalc(10,1000));
+})
+console.log(calculation(10,1000));
 
 const welcome = function(name,age,gender){
     return console.log(`My name is ${name}, i am ${age} years old and of gender ${gender}`);
